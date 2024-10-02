@@ -1,0 +1,6 @@
+@WorkTime.WebAPI_HostAddress = http://localhost:5014
+
+GET {{WorkTime.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
